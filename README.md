@@ -1,2 +1,4 @@
 # Heart-Disease-Prediction-
 Heart disease prediction using linear regression models the relationship between patient health factors (age, cholesterol, blood pressure, etc.) and a continuous risk score. It helps identify patterns and estimate disease likelihood, supporting early detection and preventive healthcare decisions through data-driven analysis.
+Developed a predictive analytics solution to assess heart disease risk using patient health data.Executed end-to-end data preprocessing, including data cleaning, transformation, and encoding using Pandas and NumPy. Performed in-depth EDA with Seaborn and Matplotlib to identify key risk factors and  feature correlations. Applied feature engineering techniques to improve data quality and model readiness. Built and evaluated a baseline Linear Regression model, laying the foundation for 
+advanced classification models. 
